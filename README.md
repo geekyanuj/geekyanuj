@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 About Me: I’m a Desktop Support Engineer with a strong interest in SpringBoot, JavaFX, and microservices.<br>🌱 Learning: Currently diving into microservices to enhance my technical skills.<br>👯 Collaboration: Eager to contribute to and collaborate on open source projects.<br>🤝 Seeking: Looking for advice and support in application development and microservices.<br>💬 Ask Me About: Desktop support, SpringBoot, JavaFX, and my journey into new technologies.<br><br>
+🔧 About Me: I’m a Embedded Software Engineer with a strong interest in SpringBoot, JavaFX, and microservices.<br>🌱 Learning: Currently diving into microservices to enhance my technical skills.<br>👯 Collaboration: Eager to contribute to and collaborate on open source projects.<br>🤝 Seeking: Looking for advice and support in application development and microservices.<br>💬 Ask Me About: Tech support, SpringBoot, JavaFX, and my journey into new technologies.<br><br>
 
 
 ## 🌐 Socials:

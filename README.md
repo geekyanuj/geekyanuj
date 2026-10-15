@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">A passionate IoT developer from India</h3>
+<h3 align="center">A passionate IoT developer from Dhanbad, India</h3>
 
 # 💫 About Me:
 
